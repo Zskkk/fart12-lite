@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build outputs
+out/
+*.o
+*.so
+*.a
